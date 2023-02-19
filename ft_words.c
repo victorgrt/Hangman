@@ -6,7 +6,7 @@
 /*   By: victor <victor@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/18 13:40:30 by victor            #+#    #+#             */
-/*   Updated: 2023/02/19 03:04:35 by victor           ###   ########.fr       */
+/*   Updated: 2023/02/19 17:47:50 by victor           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -37,6 +37,7 @@ char	*ft_select_word(int min, int max)
 	random_number = random_generator(min, max);
 	fd = open("words.txt", O_RDONLY);
 	mot = get_next_line(fd);
+	compteur = 1;
 	while (compteur < random_number)
 	{
 		free(mot);

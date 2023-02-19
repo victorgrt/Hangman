@@ -6,20 +6,20 @@ cabinet
 carreau
 chaise
 classe
-clé
+cle
 coin
 couloir
 dossier
 eau
-école
-écriture
-entrée
+ecole
+ecriture
+entree
 escalier
-étagère
-étude
-extérieur
-fenêtre
-intérieur
+etagere
+etude
+exterieur
+fenetre
+interieur
 lavabo
 lecture
 lit
@@ -37,15 +37,15 @@ portemanteau
 poubelle
 radiateur
 rampe
-récréation
-rentrée
+recreation
+rentree
 rideau
 robinet
 salle
 savon
 serrure
 serviette
-siège
+siege
 sieste
 silence
 sol
@@ -69,14 +69,14 @@ bâiller
 bosser
 se coucher
 dormir
-éclairer
-écrire
+eclairer
+ecrire
 emmener
 emporter
 s’endormir
 s’ennuyer
 entrer
-étudier
+etudier
 fermer
 frapper
 s’installer
@@ -84,11 +84,11 @@ se lever
 lire
 ouvrir
 se presser
-se réchauffer
+se rechauffer
 rentrer
 se reposer
 rester
-se réveiller
+se reveiller
 sonner
 sortir
 tricher
@@ -96,10 +96,10 @@ venir
 absent
 assis
 bas
-couché
+couche
 haut
-présent
-à côté
+present
+à côte
 à droite
 à gauche
 au milieu
@@ -113,16 +113,16 @@ en bas
 en face
 en haut
 loin
-près
+pres
 tard
 tôt
-après
+apres
 au
 avant
 contre
 dans
 de
-derrière
+derriere
 devant
 du
 sous
@@ -148,7 +148,7 @@ cahier
 carnet
 carton
 ciseaux
-découpage
+decoupage
 pliage
 pli
 colle
@@ -161,23 +161,23 @@ cartable
 jouet
 jeu
 pion
-dé
+de
 domino
 puzzle
 cube
 perle
 chose
-formecarré
+formecarre
 rond
 pâte à modeler
 tampon
 livre
 histoire
-bibliothèque
+bibliotheque
 image
 album
 titre
-bande dessinée
+bande dessinee
 conte
 dictionnaire
 magazine
@@ -186,33 +186,33 @@ page
 ligne
 mot
 enveloppe
-étiquette
+etiquette
 carte d’appelaffiche
 alphabet
 appareil
-caméscope
+camescope
 cassette
-cédé
-cédérom
+cede
+cederom
 chaîne
 chanson
 chiffre
 contraire
-différence
+difference
 doigt
-écran
-écriture
+ecran
+ecriture
 film
 fois
-idée
+idee
 instrument
 intrus
 lettre
 liste
-magnétoscope
+magnetoscope
 main
 micro
-modèle
+modele
 musique
 nom
 nombre
@@ -222,19 +222,19 @@ photo
 point
 poster
 pouce
-prénom
+prenom
 question
 radio
 sens
 tambour
-télécommande
-téléphone
-télévision
+telecommande
+telephone
+television
 trait
 trompette
 voix
 xylophone
-zéro
+zero
 chanter
 chercher
 choisir
@@ -248,18 +248,18 @@ construire
 continuer
 copier
 couper
-déchirer
-décoller
-décorer
-découper
+dechirer
+decoller
+decorer
+decouper
 demander
-démolir
-se dépêcher
+demolir
+se depecher
 dessiner
 dire
 discuter
-écouter
-écrire
+ecouter
+ecrire
 effacer
 entendre
 entourer
@@ -279,14 +279,14 @@ peindre
 plier
 poser
 prendre
-préparer
+preparer
 ranger
-réciter
+reciter
 recommencer
 regarder
 remettre
-répéter
-répondre
+repeter
+repondre
 sentir
 souligner
 tailler
@@ -300,7 +300,7 @@ complet
 ami
 attention
 camarade
-colère
+colere
 copain
 coquin
 dame
@@ -308,7 +308,7 @@ directeur
 directrice
 droit
 effort
-élève
+eleve
 enfant
 fatigue
 faute
@@ -325,36 +325,36 @@ retard
 sourire
 travail
 aider
-défendre
-désobéir
+defendre
+desobeir
 distribuer
-échanger
+echanger
 s’excuser
 expliquer
 se fâcher
 gronder
-obéir
+obeir
 obliger
 partager
-prêter
+preter
 priver
 promettre
 punir
 se quitter
 raconter
 refuser
-séparer
+separer
 blond
 brun
 calme
 curieux
-différent
+different
 doux
-énervé
+enerve
 gentil
 grand
-handicapé
-inséparable
+handicape
+inseparable
 jaloux
 moyen
 muet
@@ -366,7 +366,7 @@ propre
 roux
 sage
 sale
-sérieux
+serieux
 sourd
 tranquille
 Les jeux
@@ -380,7 +380,7 @@ bouteille
 bulles
 canard
 casserole
-cuillère
+cuillere
 cuvette
 douche
 entonnoir
@@ -408,9 +408,9 @@ baigner
 barboter
 boucher
 bouger
-déborder
+deborder
 doucher
-éclabousser
+eclabousser
 essuyer
 envoyer
 flotter
@@ -418,7 +418,7 @@ gonfler
 inonder
 jouer
 laver
-mélanger
+melanger
 mouiller
 nager
 patauger
@@ -430,7 +430,7 @@ presser
 recevoir
 remplir
 renverser
-sécher
+secher
 serrer
 souffler
 tirer
@@ -443,11 +443,11 @@ amusant
 chaud
 froid
 humide
-intéressant
-mouillé
+interessant
+mouille
 sec
 transparent
-à moitié
+à moitie
 autant
 beaucoup
 encore
@@ -455,7 +455,7 @@ moins
 peu
 plus
 trop
-Coin déguisements
+Coin deguisements
 l’endroit
 l’envers
 anorak
@@ -482,10 +482,10 @@ collant
 couronne
 cravate
 culotte
-écharpe
-épée
-fée
-flèche
+echarpe
+epee
+fee
+fleche
 fusil
 gant
 habit
@@ -516,7 +516,7 @@ roi
 ruban
 semelle
 soldat
-sorcière
+sorciere
 tache
 taille
 talon
@@ -525,12 +525,12 @@ tricot
 uniforme
 valise
 veste
-vêtement
+vetement
 se changer
 se chausser
 se couvrir
-se déguiser
-se déshabiller
+se deguiser
+se deshabiller
 enlever
 s’habiller
 lacer
@@ -538,14 +538,14 @@ porter
 ressembler
 clair
 court
-étroit
-foncé
+etroit
+fonce
 joli
 large
 long
 multicolore
 nu
-usé
+use
 bien
 mal
 mieux
@@ -563,13 +563,13 @@ carton
 clou
 colle
 crochet
-élastique
+elastique
 ficelle
 fil
 marionnette
 marteau
-métal
-mètre
+metal
+metre
 morceau
 moteur
 objet
@@ -582,21 +582,21 @@ scie
 tournevis
 vis
 voiture
-véhicule
+vehicule
 arracher
 attacher
 casser
 coudre
-détruire
-s’écorcher
+detruire
+s’ecorcher
 enfiler
 enfoncer
 fabriquer
 mesurer
 percer
 se pincer
-réparer
-réussir
+reparer
+reussir
 servir
 taper
 trouer
@@ -611,17 +611,17 @@ rugueux
 tordu
 Coin garage-train
 accident
-aéroport
+aeroport
 auto
 camion
 engin
 feu
 frein
-fusée
+fusee
 garage
 gare
 grue
-hélicoptère
+helicoptere
 moto
 panne
 parking
@@ -634,15 +634,15 @@ vitesse
 voyage
 wagon
 zigzag
-s’arrêter
+s’arreter
 atterrir
 bouder
 charger
 conduire
-démarrer
+demarrer
 disparaître
 donner
-écraser
+ecraser
 s’envoler
 garder
 se garer
@@ -654,21 +654,21 @@ rouler
 tendre
 transporter
 voler
-abîmé
+abîme
 ancien
 blanc
 bleu
-cassé
+casse
 cinq
 dernier
 deux
-deuxième
+deuxieme
 dix
 gris
 gros
 huit
 jaune
-même
+meme
 neuf
 pareil
 premier
@@ -679,12 +679,12 @@ seul
 six
 solide
 trois
-troisième
+troisieme
 un
 vert
 au-dessus
 autour
-vite côté de
+vite côte de
 au milieu de
 au-dessous de
 au-dessus de
@@ -693,13 +693,13 @@ avec
 en bas de
 en haut de
 loin de
-près de
+pres de
 sur
 vers
 Dans la salle de jeux
 acrobate
-arrêt
-arrière
+arret
+arriere
 barre
 barreau
 bord
@@ -711,17 +711,17 @@ chute
 cœur
 corde
 corps
-côté
+côte
 cou
 coude
 cuisse
 danger
 doigts
 dos
-échasses
-échelle
-épaule
-équipe
+echasses
+echelle
+epaule
+equipe
 escabeau
 fesse
 filet
@@ -736,7 +736,7 @@ milieu
 montagne
 mur d’escalade
 muscle
-numéro
+numero
 ongle
 parcours
 pas
@@ -748,15 +748,15 @@ plongeoir
 poignet
 poing
 pont de singe
-poutre d’équilibre
+poutre d’equilibre
 prises
-rivière des crocodiles
+riviere des crocodiles
 roulade
 saut
 serpent
 sport
 suivant
-tête
+tete
 toboggan
 tour
 trampoline
@@ -772,12 +772,12 @@ bousculer
 se cogner
 courir
 danser
-dépasser
+depasser
 descendre
-écarter
+ecarter
 escalader
 gagner
-gêner
+gener
 glisser
 grimper
 marcher à quatre pattes
@@ -800,13 +800,13 @@ tomber
 transpirer
 traverser
 dangereux
-épais
+epais
 fort
 gauche
-groupé
+groupe
 immobile
 rond
-serré
+serre
 souple
 au delà
 ensemble
@@ -823,31 +823,31 @@ bande
 bicyclette
 bille
 cadenas
-cage à écureuil
+cage à ecureuil
 cerf-volant
 château
 coup
 cour
 course
-échasse
+echasse
 flaque
 paix
 pardon
 partie
-pédale
+pedale
 pelle
 pompe
-préau
+preau
 raquette
 rayon
-récréation
+recreation
 sable
 sifflet
 signe
 tas
 tricycle
 tuyau
-vélo
+velo
 filet
 se bagarrer
 se battre
@@ -855,53 +855,53 @@ se cacher
 cracher
 creuser
 crier
-se dégonfler
+se degonfler
 se disputer
-empêcher
+empecher
 galoper
 hurler
 jongler
 lancer
-pédaler
+pedaler
 se plaindre
 pleurer
 poursuivre
-protéger
+proteger
 saigner
 se salir
 siffler
 surveiller
 traîner
 trouver
-caché
+cache
 fou
-méchant
+mechant
 La cuisine
 la nourriture
 Gâteaux
-crêpes
+crepes
 allumette
 anniversaire
-appétit
+appetit
 beurre
 coquille
-crêpes
+crepes
 croûte
 dessert
 envie
 faim
-fève
+feve
 four
 galette
 gâteau
 goût
 invitation
 langue
-lèvres
+levres
 liquide
 louche
 mie
-moitié
+moitie
 moule
 odeur
 œuf
@@ -922,21 +922,21 @@ battre
 se brûler
 chauffer
 cuire
-étaler
-éteindre
+etaler
+eteindre
 falloir
 inviter
 jeter
-lécher
+lecher
 oublier
-se régaler
+se regaler
 remercier
 remuer
 souhaiter
 sucer
-barbouillé
+barbouille
 demi
-égal
+egal
 entier
 gourmand
 mauvais
@@ -953,17 +953,17 @@ paille
 pamplemousse
 râpe
 croquer
-éplucher
+eplucher
 râper
-Soupe aux légumes
+Soupe aux legumes
 bassine
 cocotte
-épluchure
-légume
+epluchure
+legume
 pomme de terre
 rondelle
 soupe
-consommé
+consomme
 potage
 bouillir
 mixer
@@ -971,21 +971,21 @@ cru
 cuit
 vide
 À la cantine
-arête
+arete
 frite
 gobelet
 jambon
 os
 poulet
-purée
+puree
 radis
 restaurant
 sole
-déjeuner
+dejeuner
 Les animaux
 L’animal domestique
 animal
-bébés
+bebes
 bouche
 cage
 câlin
@@ -1008,9 +1008,9 @@ appeler
 câliner
 caresser
 changer
-déranger
-s’échapper
-élever
+deranger
+s’echapper
+elever
 enfermer
 enterrer
 gratter
@@ -1026,17 +1026,17 @@ se promener
 ronger
 se sauver
 soigner
-téter
+teter
 vivre
 voir
-abandonné
+abandonne
 enceinte
 maigre
 mort
-né
+ne
 vivant
 À la ferme
-légume
+legume
 abeille
 agneau
 aile
@@ -1045,9 +1045,9 @@ arbre
 bain
 barque
 bassin
-bébé
+bebe
 bec
-bête
+bete
 bœuf
 botte de foin
 boue
@@ -1060,9 +1060,9 @@ car
 champ
 chariot
 chat
-cheminée
+cheminee
 cheval
-chèvre
+chevre
 chien
 cochon
 colline
@@ -1070,24 +1070,24 @@ coq
 coquelicot
 crapaud
 cygne
-départ
+depart
 dindon
 escargot
-étang
+etang
 ferme
 fermier
 feuille
 flamme
 fleur
 fontaine
-fumée
+fumee
 grain
 graine
 grenouille
 griffe
-guêpe
+guepe
 herbe
-hérisson
+herisson
 insecte
 jardin
 mare
@@ -1107,16 +1107,16 @@ poule
 poussin
 prairie
 rat
-rivière
+riviere
 route
 tortue
 tracteur
 tulipe
 vache
-vétérinaire
+veterinaire
 accompagner
 se baigner
-courir après
+courir apres
 couver
 donner à manger
 faire boire
@@ -1127,7 +1127,7 @@ piquer
 ramasser
 traire
 bizarre
-énorme
+enorme
 immense
 malade
 nain
@@ -1136,13 +1136,13 @@ Au zoo
 aigle
 animaux
 aquarium
-bêtes
+betes
 cerf
 chouette
 cigogne
 crocodile
 dauphin
-éléphant
+elephant
 girafe
 hibou
 hippopotame
@@ -1151,39 +1151,39 @@ lion
 loup
 ours
 panda
-panthère
+panthere
 perroquet
 phoque
 renard
 requin
-rhinocéros
+rhinoceros
 singe
 tigre
-zèbre
+zebre
 zoo
-La fête
+La fete
 Le carnaval
-épingle
+epingle
 bâton
-bêtise
+betise
 bonhomme
 bottes
 canne
 cauchemar
 cri
 danse
-déguisement
+deguisement
 dinosaure
 drapeau
 en argent
 en or
 en rang
-fête
+fete
 figure
-géant
+geant
 gens
-grand-mère
-grand-père
+grand-mere
+grand-pere
 joie
 joue
 journaux
@@ -1195,9 +1195,9 @@ ogre
 princesse
 rue
 trottoir
-déguiser
-défiler
-éclater
+deguiser
+defiler
+eclater
 essayer
 marcher
 se moquer
@@ -1205,7 +1205,7 @@ plaire
 rencontrer
 ressembler à
 retourner
-rêver
+rever
 rire
 taper sur
 danser
@@ -1213,17 +1213,17 @@ sauter
 chanter
 content
 drôle
-effrayé
+effraye
 heureux
 joyeux
-prêt
+pret
 riche
 terrible
-La fête de l’école
+La fete de l’ecole
 Noël
 boule
 cadeau
-canne à pêche
+canne à peche
 chance
 cube
 guirlande
@@ -1236,19 +1236,19 @@ visage
 faire peur
 lever
 maquiller
-électrique
+electrique
 Le temps
 L’heure
 le calendrier
 âge
 an
-année
-après-midi
+annee
+apres-midi
 calendrier
-début
+debut
 dimanche
-été
-étoile
+ete
+etoile
 fin
 heure des mamans
 heure
@@ -1256,8 +1256,8 @@ hiver
 horloge
 jeudi
 jour
-journée
-lumière
+journee
+lumiere
 lundi
 lune
 mardi
@@ -1273,7 +1273,7 @@ nuit
 ombre
 pendule
 retour
-réveil
+reveil
 saison
 samedi
 semaine
@@ -1290,7 +1290,7 @@ grandir
 mettre du temps
 suivre (chronologie)
 retarder
-aîné
+aîne
 jeune
 lent
 patient
@@ -1307,12 +1307,12 @@ puis
 tout de suite
 en avance (loc.)
 en retard (loc.)
-La météo
+La meteo
 air
 arc-en-ciel
 brouillard
 ciel
-éclair
+eclair
 flocon
 goutte
 hirondelle
@@ -1324,8 +1324,8 @@ ouragan
 parapluie
 parasol
 ski
-tempête
-thermomètre
+tempete
+thermometre
 tonnerre
 traîneau
 vent
@@ -1337,14 +1337,14 @@ neiger
 se tromper
 pleuvoir
 venter
-déçu
+deçu
 triste
 chaud
 froid
 pluvieux
 nuageux
 humide
-gelé
+gele
 instable
 changeant
 À la maison
@@ -1355,19 +1355,19 @@ biscuit
 boisson
 bol
 bonbon
-céréale
+cereale
 confiture
 coquetier
 couteau
 couvercle
 couvert
-cuillère
+cuillere
 cuisine
-cuisinière
-désordre
+cuisiniere
+desordre
 dînette
-éponge
-évier
+eponge
+evier
 four
 fourchette
 lait
@@ -1379,8 +1379,8 @@ pain
 pile
 plat
 plateau
-poêle
-réfrigérateur
+poele
+refrigerateur
 repas
 tartine
 torchon
@@ -1395,7 +1395,7 @@ se servir
 cuisiner
 bon
 creux
-délicieux
+delicieux
 La chambre
 argent
 aspirateur
@@ -1405,7 +1405,7 @@ bijou
 bracelet
 brosse
 cadre
-canapé
+canape
 chambre
 cheveu
 chiffon
@@ -1425,31 +1425,31 @@ frange
 glace
 lampe
 lit
-ménage
+menage
 or
 oreiller
 parfum
 peigne
 pouf
-poupée
+poupee
 poussette
-poussière
+poussiere
 shampoing
 sourcil
-trésor
+tresor
 tube
 vase
 s’allonger
 se coiffer
-hésiter
+hesiter
 se laver
 se maquiller
 passer
-préférer
+preferer
 repasser
-se sécher
+se secher
 secouer
-téléphoner
+telephoner
 beau
 belle
 confortable
@@ -1464,12 +1464,12 @@ bavoir
 biberon
 bisou
 caprice
-cimetière
+cimetiere
 cousin
 cousine
-crèche
+creche
 fils
-frère
+frere
 grand-parent
 homme
 femme
@@ -1477,10 +1477,10 @@ jumeau
 maman
 mari
 mariage
-mère
+mere
 papa
 parent
-père
+pere
 petit-enfant
 petit-fils
 petite-fille
@@ -1492,8 +1492,8 @@ baver
 bercer
 se blottir
 consoler
-déménager
-se détester
+demenager
+se detester
 s’embrasser
 se marier
 offrir
@@ -1510,14 +1510,14 @@ bosse
 champignon
 dentiste
 docteur
-fièvre
+fievre
 front
 gorge
 infirmier
-infirmière
+infirmiere
 jambe
 larme
-médecin
+medecin
 menton
 mine
 ordonnance
@@ -1526,40 +1526,40 @@ peau
 piqûre
 poison
 sang
-santé
+sante
 squelette
 trousse
 aller bien
 attraper une maladie
 se blesser
-détester
+detester
 devoir
-éternuer
+eternuer
 se gratter
-guérir
+guerir
 se moucher
 ne pas oublier
-se protéger
+se proteger
 recoudre
 souffrir
 tâter
 tousser
 trembler
-guéri
+gueri
 pâle
 Le jardin
-araignée
+araignee
 brouette
 chenille
 coccinelle
 fourmi
 herbe
 jonquille
-lézard
+lezard
 pâquerette
-rangée
+rangee
 râteau
-rosé
+rose
 souris
 taupe
 terrain
@@ -1576,7 +1576,7 @@ mûr
 profond
 assez
 Les sorties
-portière
+portiere
 sac
 voyager
 Au zoo
@@ -1591,18 +1591,18 @@ ticket
 se doucher
 tuer
 cruel
-En forêt
+En foret
 bûche
 buisson
 camp
 chasseur
 châtaigne
 chemin
-chêne
+chene
 corbeau
-écorce
-écureuil
-forêt
+ecorce
+ecureuil
+foret
 gourde
 lac
 loupe
@@ -1620,7 +1620,7 @@ sommet
 tente
 camper
 chasser
-s’éloigner 
+s’eloigner 
 entendre
 s’envoler
 griller
@@ -1647,7 +1647,7 @@ rencontrer
 se reposer
 respirer
 revoir
-rêver
+rever
 sentir
 siffler
 transpirer
@@ -1669,7 +1669,7 @@ caravane
 carrefour
 cave
 charcuterie
-cinéma
+cinema
 cirque
 clin d’œil
 cloche
@@ -1679,7 +1679,7 @@ coiffeur
 colis-route
 courrier
 croix
-église
+eglise
 embouteillage
 endroit
 enveloppe
@@ -1693,8 +1693,8 @@ immeuble
 incendie
 laisse
 magasin
-manège
-médicament
+manege
+medicament
 moineau
 monde
 monument
@@ -1738,21 +1738,21 @@ visiter
 important
 impossible
 prudent
-Au marché
+Au marche
 abricot
 ail
 aliment
 ananas
 banane
 bifteck
-café
+cafe
 carotte
 cerise
 chocolat
 chou
 citron
 citrouille
-clémentine
+clementine
 concombre
 coquillage
 corbeille
@@ -1767,7 +1767,7 @@ fruit
 gâteau
 haricot
 huile
-légume
+legume
 marchand
 melon
 monnaie
@@ -1779,7 +1779,7 @@ oignon
 orange
 panier
 pâtes
-pêche
+peche
 persil
 petit pois
 poire
@@ -1793,7 +1793,7 @@ raisin
 riz
 salade
 sucre
-thé
+the
 tomate
 viande
 vin
@@ -1805,19 +1805,19 @@ peser
 rendre
 vendre
 cher
-léger
+leger
 lourd
 plein
 À la mer
 baleine
-bouée
+bouee
 île
 jumelles
 marin
 mer
 mouette
 navire
-pêcheur
+pecheur
 plage
 poisson
 port

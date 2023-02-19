@@ -6,23 +6,11 @@
 /*   By: victor <victor@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/18 13:40:32 by victor            #+#    #+#             */
-/*   Updated: 2023/02/19 13:23:16 by victor           ###   ########.fr       */
+/*   Updated: 2023/02/19 18:25:32 by victor           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "hangman.h"
-
-char	*ft_tried_letters(char c, int i)
-{
-	char *tried;
-
-	tried = malloc(sizeof(char) * i);
-	if (!tried)
-		return (NULL);
-	tried[i] = c;
-	tried[i+1] = '\0';
-	return (tried);
-}
 
 void	ft_print_mot(char *mot, char *hidden)
 {
@@ -36,7 +24,7 @@ void	ft_print_mot(char *mot, char *hidden)
 			printf("  \033[32m%c\033[0m", hidden[i]);
 		i++;
 	}
-	printf("\n\n");
+	printf("\n");
 }
 
 void	ft_print_echaffau(int tries)
@@ -44,7 +32,7 @@ void	ft_print_echaffau(int tries)
 	if (tries == 6)
 		printf("    |====||\n    |    ||\n         ||	TRIES : %d\n         ||\n        /__\\\n", tries);
 	else if (tries == 5)
-		printf("    |====||\n    |    ||\n   o     ||	TRIES : %d\n         ||\n        /__\\\n", tries);
+		printf("    |====||\n    |    ||\n    o    ||	TRIES : %d\n         ||\n        /__\\\n", tries);
 	else if (tries == 4)
 		printf("    |====||\n    |    ||\n    o    ||	TRIES : %d\n    |    ||\n        /__\\\n", tries);
 	else if (tries == 3)
@@ -58,26 +46,29 @@ void	ft_print_echaffau(int tries)
 	printf("\n");
 }
 
-char *ft_print_used(char *mot, int pos)
+void	ft_print_used(char *used_letters)
 {
-	static char	*used;
 	int	i = 0;
-
-	used = malloc(sizeof(char) * ft_strlen(mot) + 6);
-	if (!used)
-		return (NULL);
-	used = ft_get_letter(used, pos);
-	printf("USed[%d] : %c\n", pos, used[0]);
-	printf("Used Letters :\n");
-	i = 0;
-	while (i < pos)
+	
+	printf("Lettres essayées : ");
+	while (used_letters[i])
 	{
-		printf("%c --", used[i]);
+		printf(" %c ", used_letters[i]);
 		i++;
 	}
 	printf("\n");
-	//printf("used : %s\n", used);
-	return (used);
+}
+
+void	ft_print_all(char *mot, char *hidden, char *used, int life)
+{
+	ft_print_echaffau(life);
+	ft_print_mot(mot, hidden);
+	if (used)
+	{
+		write(1, "\n", 1);
+		ft_print_used(used);
+		write(1, "\n", 1);
+	}
 }
 
 // int	main(void)

@@ -6,7 +6,7 @@
 /*   By: victor <victor@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/18 17:46:17 by victor            #+#    #+#             */
-/*   Updated: 2023/02/19 13:20:48 by victor           ###   ########.fr       */
+/*   Updated: 2023/02/19 14:41:07 by victor           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -47,14 +47,13 @@ void ft_reponse(char *mot, char *hidden, char c)
     }
 }
 
-char    *ft_get_letter(char *used, int position)
+char    ft_get_letter()
 {
     char lettre;
 
     printf("Enter a letter : \n");
-    used[position] = scanf("%c", &lettre);
-    used[position + 1] = '\0';
-    return (used);
+    lettre = scanf("%c", &lettre);
+    return (lettre);
 }
 
 int ft_win(char *mot, char *hidden)
